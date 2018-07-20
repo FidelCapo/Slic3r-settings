@@ -1,7 +1,8 @@
 min_slic3r_version = 1.41.0-alpha
-0.2.0-alpha
-0.2.1-alpha
+0.2.2-beta
 0.2.1-beta
+0.2.1-alpha
+0.2.0-alpha
 min_slic3r_version = 1.40.0
 0.1.12 copy of 0.1.11 for update test
 0.1.11 fw version changed to 3.3.1
